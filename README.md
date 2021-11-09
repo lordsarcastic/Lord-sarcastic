@@ -7,3 +7,8 @@ You can see me in other places too:
 - [Twitter](https://twitter.com/Lord__Sarcastic)
 - [Instagram](https://instagram.com/lordsarcastic)
 - [LinkedIn](https://www.linkedin.com/in/adeoti-ayodeji-390bab173/)
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lord-sarcastic&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lord-sarcastic&hide=css,java,html&theme=tokyonight">
+</p>
