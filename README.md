@@ -9,4 +9,8 @@ You can see me in other places too:
 - [LinkedIn](https://www.linkedin.com/in/adeoti-ayodeji-390bab173/)
 algolia
 
-![Lord_Sarcastic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-sarcastic&show_icons=true&theme=algolia&count_private=true)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Lord-sarcastic&show_icons=true&theme=algolia&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=Lord_Sarcastic&theme=algolia&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-sarcastic&theme=algolia&count_private=true&layout=compact">
+</p>
